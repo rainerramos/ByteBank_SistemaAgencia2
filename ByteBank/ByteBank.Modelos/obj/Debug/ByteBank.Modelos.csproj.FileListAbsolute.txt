@@ -1,0 +1,6 @@
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\CSharp\src\ByteBank_SistemaAgencia2\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
