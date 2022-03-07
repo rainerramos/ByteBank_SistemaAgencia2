@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
 
@@ -16,6 +12,7 @@ namespace ByteBank.SistemaAgencia
 
             FuncionarioAutenticavel carlos = null;
             carlos.Autenticar("ahushuahfaf");
+            AutenticacaoHelper teste;
                             
             Console.WriteLine(conta.Numero);
 
